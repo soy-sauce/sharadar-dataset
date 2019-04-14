@@ -18,6 +18,6 @@ Percent of Preferred units:</br>
 	-preferred units give additional rights, good to know what percent are preferred</br></br>
 
 Percent of warrants:</br>
-	-extrapolated from Warrants/(Shareholders Units + Preferred Units)</br>
+	-extrapolated from Warrants/(Shareholders Units + Preferred Units+ Warrant Units)</br>
 	-rights to issue additional shares</br>
 	-good to know how percentage of warrants that might become actual shares</br>
